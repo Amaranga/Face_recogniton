@@ -16,13 +16,12 @@ Images of my collogues in the SPICED Academy Cohort.
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
   
-## Usage
-
-run the below command in the terminal:
-
-python face_reg.py
-
-
+## How to use
+- Clone the repo
+- Pip install requirements.txt
+- create a training_images folder of your desired pictures.
+- run in terminal: python face_reg.py
+- get the screenshots of the output you get with webcam.
   
 ## Tech Stack
 - Dlib + Cmake
